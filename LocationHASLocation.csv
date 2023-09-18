@@ -1,4 +1,4 @@
 startAdoptionUUID,endAdoptionUUID,perspectives,internalPurpose
-11,12,"Planned,Operational",TRUE
-12,13,"Planned,Operational",FALSE
-13,21,"Planned,Operational",FALSE
+100,101,"Planned,Operational",TRUE
+102,103,"Planned,Operational",FALSE
+103,201,"Planned,Operational",FALSE
